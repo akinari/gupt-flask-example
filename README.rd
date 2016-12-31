@@ -4,7 +4,7 @@
 ## Usage:
 
 curl -L -O https://github.com/akinari/gupt-flask-example/archive/master.zip
-unzip master.zip;cd gupt-flask-example;
+unzip master.zip;cd gupt-flask-example-master;
 
 docker build -t gupt-flask-example .
 
